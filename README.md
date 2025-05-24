@@ -1,5 +1,5 @@
-- 👋 Hola soy Ezequiel Gonzalez, tengo 24 años y soy de Cordoba capital
-- 👀 Interesado en adquirir experiencia y conocimientos en el ambito tecnologico, apasionado del analisis y tratamiento de datos
+- 👋 Hola soy Ezequiel Gonzalez, tengo 25 años y soy de Cordoba capital
+- 👀 Interesado en adquirir experiencia y conocimientos en el ambito tecnologico, apasionado del analisis y tratamiento de datos.
 - 🌱 Estudiante de la carrera tecnico superior en desarrollo de software
 - ⚡ Intentar e intentar hasta conseguirlo.
 
